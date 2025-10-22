@@ -83,7 +83,7 @@ int main() {
 }
 ```
 
-
+ 
 ## Output:
 
 ![443921385-3752be20-449c-445b-9d2e-8f2fea590417](https://github.com/user-attachments/assets/34b81e0b-18a7-4924-b35c-f7ffc6e8c4f6)
